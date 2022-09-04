@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-First-assignment/static/css/main.b3ce6096.css",
+    "main.js": "/React-First-assignment/static/js/main.7a420e74.js",
+    "static/js/787.454039b8.chunk.js": "/React-First-assignment/static/js/787.454039b8.chunk.js",
+    "static/media/BG Image.jpg": "/React-First-assignment/static/media/BG Image.e20523220074b7375269.jpg",
+    "static/media/graph.png": "/React-First-assignment/static/media/graph.1c2941ffe4aebe3577e1.png",
+    "static/media/Atgmail.png": "/React-First-assignment/static/media/Atgmail.796bc04098ba23dfbb1d.png",
+    "static/media/serviceImg3.png": "/React-First-assignment/static/media/serviceImg3.ee41c3f82dfe96743725.png",
+    "static/media/serviceImg1.jpg": "/React-First-assignment/static/media/serviceImg1.fb04953a0ca40d972516.jpg",
+    "static/media/Email.png": "/React-First-assignment/static/media/Email.12741fa8771d4960c42b.png",
+    "static/media/clients2.png": "/React-First-assignment/static/media/clients2.4409d90028ceefb780ff.png",
+    "static/media/serviceImg2.png": "/React-First-assignment/static/media/serviceImg2.1c7e021fa23ebd359dd1.png",
+    "static/media/follow.png": "/React-First-assignment/static/media/follow.e35a1b6996d013005a89.png",
+    "static/media/logo.svg": "/React-First-assignment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-First-assignment/index.html",
+    "main.b3ce6096.css.map": "/React-First-assignment/static/css/main.b3ce6096.css.map",
+    "main.7a420e74.js.map": "/React-First-assignment/static/js/main.7a420e74.js.map",
+    "787.454039b8.chunk.js.map": "/React-First-assignment/static/js/787.454039b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ce6096.css",
+    "static/js/main.7a420e74.js"
+  ]
+}
